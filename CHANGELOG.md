@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.2](https://github.com/strong-network/fixuid/releases/tag/v0.5.2) - 2023-02-23
+
+### Features
+
+- updating golang packange and dependencies
+
+
 ## [0.5.1](https://github.com/boxboat/fixuid/releases/tag/v0.5.1) - 2021-07-19
 
 ### Features
